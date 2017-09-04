@@ -1,0 +1,1 @@
+CREATE TABLE Student(id NUMBER(10) NOT NULL,name varchar2(100) NOT NULL, age NUMBER(3);
